@@ -67,3 +67,6 @@
 [submodule "data-book_scraping"]
 	path = data-book_scraping
 	url = https://github.com/CassienB/data-book_scraping.git
+[submodule "data-recipe_scraping"]
+	path = data-recipe_scraping
+	url = https://github.com/CassienB/data-recipe_scraping.git
