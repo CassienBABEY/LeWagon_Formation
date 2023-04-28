@@ -169,3 +169,6 @@
 [submodule "data-pickle-pipe"]
 	path = data-pickle-pipe
 	url = https://github.com/CassienB/data-pickle-pipe.git
+[submodule "data-tuning-pipeline"]
+	path = data-tuning-pipeline
+	url = https://github.com/CassienB/data-tuning-pipeline.git
