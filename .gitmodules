@@ -136,3 +136,6 @@
 [submodule "data-knn"]
 	path = data-knn
 	url = https://github.com/CassienB/data-knn.git
+[submodule "data-electrocardiograms."]
+	path = data-electrocardiograms.
+	url = https://github.com/CassienB/data-electrocardiograms.git
