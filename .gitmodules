@@ -10,3 +10,6 @@
 [submodule "data-string-manipulation"]
 	path = data-string-manipulation
 	url = https://github.com/CassienB/data-string-manipulation.git
+[submodule "data-data-structure"]
+	path = data-data-structure
+	url = https://github.com/CassienB/data-data-structures.git
