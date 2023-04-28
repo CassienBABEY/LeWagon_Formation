@@ -37,3 +37,6 @@
 [submodule "data-interacting-with-code"]
 	path = data-interacting-with-code
 	url = https://github.com/CassienB/data-interacting-with-code.git
+[submodule "data-back-to-school"]
+	path = data-back-to-school
+	url = https://github.com/CassienB/data-back_to_school_query.git
