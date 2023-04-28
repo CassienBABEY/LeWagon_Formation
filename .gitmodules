@@ -112,3 +112,6 @@
 [submodule "data-sellers"]
 	path = data-sellers
 	url = https://github.com/CassienB/data-sellers.git
+[submodule "data-logit"]
+	path = data-logit
+	url = https://github.com/CassienB/data-logit.git
