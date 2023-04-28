@@ -79,3 +79,6 @@
 [submodule "data-matplotlib-intro"]
 	path = data-matplotlib-intro
 	url = https://github.com/CassienB/data-matplotlib-intro.git
+[submodule "data-real-estate-estimator"]
+	path = data-real-estate-estimator
+	url = https://github.com/CassienB/data-real-estate-estimator.git
