@@ -181,3 +181,6 @@
 [submodule "data-image-compression"]
 	path = data-image-compression
 	url = https://github.com/CassienB/data-image-compression.git
+[submodule "data-face-recognition"]
+	path = data-face-recognition
+	url = https://github.com/CassienB/data-face-recognition.git
