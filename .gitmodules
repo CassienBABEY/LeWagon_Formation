@@ -172,3 +172,6 @@
 [submodule "data-tuning-pipeline"]
 	path = data-tuning-pipeline
 	url = https://github.com/CassienB/data-tuning-pipeline.git
+[submodule "data-hand-made-standardizer"]
+	path = data-hand-made-standardizer
+	url = https://github.com/CassienB/data-hand-made-standardizer.git
