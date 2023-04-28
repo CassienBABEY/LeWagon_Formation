@@ -85,3 +85,6 @@
 [submodule "data-real-estate-advanced-estimator"]
 	path = data-real-estate-advanced-estimator
 	url = https://github.com/CassienB/data-real-estate-advanced-estimator.git
+[submodule "data-law-of-large-numbers"]
+	path = data-law-of-large-numbers
+	url = https://github.com/CassienB/data-law-of-large-numbers.git
