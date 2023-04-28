@@ -142,3 +142,6 @@
 [submodule "data-threshold-adjustments"]
 	path = data-threshold-adjustments
 	url = https://github.com/CassienB/data-threshold-adjustments.git
+[submodule "data-loss-functions"]
+	path = data-loss-functions
+	url = https://github.com/CassienB/data-loss-functions.git
