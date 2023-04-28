@@ -13,3 +13,6 @@
 [submodule "data-data-structure"]
 	path = data-data-structure
 	url = https://github.com/CassienB/data-data-structures.git
+[submodule "data-debugging"]
+	path = data-debugging
+	url = https://github.com/CassienB/data-debugging.git
