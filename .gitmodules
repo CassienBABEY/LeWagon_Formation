@@ -223,3 +223,6 @@
 [submodule "data-classify-electrocardiograms"]
 	path = data-classify-electrocardiograms
 	url = https://github.com/CassienB/data-classify-electrocardiograms.git
+[submodule "data-predict-temperature"]
+	path = data-predict-temperature
+	url = https://github.com/CassienB/data-predict-temperature.git
