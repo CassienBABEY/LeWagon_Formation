@@ -241,3 +241,6 @@
 [submodule "data-sentiment-analysis-with-word2vec"]
 	path = data-sentiment-analysis-with-word2vec
 	url = https://github.com/CassienB/data-sentiment-analysis-with-word2vec.git
+[submodule "data-nlp-with-cnn"]
+	path = data-nlp-with-cnn
+	url = https://github.com/CassienB/data-nlp-with-cnn.git
