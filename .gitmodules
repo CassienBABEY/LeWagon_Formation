@@ -100,3 +100,6 @@
 [submodule "data-exploratory-analysis"]
 	path = data-exploratory-analysis
 	url = https://github.com/CassienB/data-exploratory-analysis.git
+[submodule "data-orders"]
+	path = data-orders
+	url = https://github.com/CassienB/data-orders.git
