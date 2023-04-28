@@ -226,3 +226,6 @@
 [submodule "data-predict-temperature"]
 	path = data-predict-temperature
 	url = https://github.com/CassienB/data-predict-temperature.git
+[submodule "data-check"]
+	path = data-check
+	url = https://github.com/CassienB/data-check.git
