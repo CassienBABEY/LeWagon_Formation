@@ -202,3 +202,6 @@
 [submodule "data-how-to-properly-prevent-overfitting"]
 	path = data-how-to-properly-prevent-overfitting
 	url = https://github.com/CassienB/data-how-to-properly-prevent-overfitting.git
+[submodule "data-finetune-your-neural-network"]
+	path = data-finetune-your-neural-network
+	url = https://github.com/CassienB/data-finetune-your-neural-network.git
