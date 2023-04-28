@@ -184,3 +184,6 @@
 [submodule "data-face-recognition"]
 	path = data-face-recognition
 	url = https://github.com/CassienB/data-face-recognition.git
+[submodule "data-artificial-time-series"]
+	path = data-artificial-time-series
+	url = https://github.com/CassienB/data-artificial-time-series.git
