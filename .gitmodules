@@ -4,3 +4,6 @@
 [submodule "dotfiles"]
 	path = dotfiles
 	url = https://github.com/CassienB/dotfiles.git
+[submodule "data-sum-of-three"]
+	path = data-sum-of-three
+	url = https://github.com/CassienB/data-sum-of-three.git
