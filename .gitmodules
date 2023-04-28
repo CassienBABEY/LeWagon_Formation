@@ -97,3 +97,6 @@
 [submodule "data-data-preparation"]
 	path = data-data-preparation
 	url = https://github.com/CassienB/data-data-preparation.git
+[submodule "data-exploratory-analysis"]
+	path = data-exploratory-analysis
+	url = https://github.com/CassienB/data-exploratory-analysis.git
