@@ -121,3 +121,6 @@
 [submodule "data-learning-curves"]
 	path = data-learning-curves
 	url = https://github.com/CassienB/data-learning-curves.git
+[submodule "data-logistic-regression"]
+	path = data-logistic-regression
+	url = https://github.com/CassienB/data-logistic-regression.git
