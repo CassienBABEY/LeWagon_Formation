@@ -214,3 +214,6 @@
 [submodule "data-intuition-on-convolutions"]
 	path = data-intuition-on-convolutions
 	url = https://github.com/CassienB/data-intuition-on-convolutions.git
+[submodule "data-cifar-classification"]
+	path = data-cifar-classification
+	url = https://github.com/CassienB/data-cifar-classification.git
