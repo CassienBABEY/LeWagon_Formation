@@ -208,3 +208,6 @@
 [submodule "data-credit-card-challenge"]
 	path = data-credit-card-challenge
 	url = https://github.com/CassienB/data-credit-card-challenge.git
+[submodule "data-mnist-classification"]
+	path = data-mnist-classification
+	url = https://github.com/CassienB/data-mnist-classification.git
