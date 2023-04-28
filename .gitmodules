@@ -58,3 +58,6 @@
 [submodule "data-multiple-files-with-pandas"]
 	path = data-multiple-files-with-pandas
 	url = https://github.com/CassienB/data-multiple-files-with-pandas.git
+[submodule "data-opengraph_api"]
+	path = data-opengraph_api
+	url = https://github.com/CassienB/data-opengraph_api.git
