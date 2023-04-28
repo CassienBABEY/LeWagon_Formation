@@ -82,3 +82,6 @@
 [submodule "data-real-estate-estimator"]
 	path = data-real-estate-estimator
 	url = https://github.com/CassienB/data-real-estate-estimator.git
+[submodule "data-real-estate-advanced-estimator"]
+	path = data-real-estate-advanced-estimator
+	url = https://github.com/CassienB/data-real-estate-advanced-estimator.git
