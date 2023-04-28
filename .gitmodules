@@ -148,3 +148,6 @@
 [submodule "data-solvers"]
 	path = data-solvers
 	url = https://github.com/CassienB/data-solvers.git
+[submodule "data-batch-gradient-descent"]
+	path = data-batch-gradient-descent
+	url = https://github.com/CassienB/data-batch-gradient-descent.git
