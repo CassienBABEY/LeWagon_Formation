@@ -88,3 +88,6 @@
 [submodule "data-law-of-large-numbers"]
 	path = data-law-of-large-numbers
 	url = https://github.com/CassienB/data-law-of-large-numbers.git
+[submodule "data-random-variables"]
+	path = data-random-variables
+	url = https://github.com/CassienB/data-random-variables.git
