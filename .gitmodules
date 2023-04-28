@@ -244,3 +244,6 @@
 [submodule "data-nlp-with-cnn"]
 	path = data-nlp-with-cnn
 	url = https://github.com/CassienB/data-nlp-with-cnn.git
+[submodule "data-letter-generation"]
+	path = data-letter-generation
+	url = https://github.com/CassienB/data-letter-generation.git
