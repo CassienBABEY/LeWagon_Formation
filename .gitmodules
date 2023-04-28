@@ -109,3 +109,6 @@
 [submodule "data-orders-regression"]
 	path = data-orders-regression
 	url = https://github.com/CassienB/data-orders-regression.git
+[submodule "data-sellers"]
+	path = data-sellers
+	url = https://github.com/CassienB/data-sellers.git
