@@ -34,3 +34,6 @@
 [submodule "data-interacting-with-db"]
 	path = data-interacting-with-db
 	url = https://github.com/CassienB/data-interacting-with-db.git
+[submodule "data-interacting-with-code"]
+	path = data-interacting-with-code
+	url = https://github.com/CassienB/data-interacting-with-code.git
