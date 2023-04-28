@@ -55,3 +55,6 @@
 [submodule "data-us-oil-and-gas-production"]
 	path = data-us-oil-and-gas-production
 	url = https://github.com/CassienB/data-us-oil-and-gas-production.git
+[submodule "data-multiple-files-with-pandas"]
+	path = data-multiple-files-with-pandas
+	url = https://github.com/CassienB/data-multiple-files-with-pandas.git
