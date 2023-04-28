@@ -238,3 +238,6 @@
 [submodule "data-embeddings-with-word2vec"]
 	path = data-embeddings-with-word2vec
 	url = https://github.com/CassienB/data-embeddings-with-word2vec.git
+[submodule "data-sentiment-analysis-with-word2vec"]
+	path = data-sentiment-analysis-with-word2vec
+	url = https://github.com/CassienB/data-sentiment-analysis-with-word2vec.git
