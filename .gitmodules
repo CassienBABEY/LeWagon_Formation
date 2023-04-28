@@ -31,3 +31,6 @@
 [submodule "data-db-design"]
 	path = data-db-design
 	url = https://github.com/CassienB/data-db-design.git
+[submodule "data-interacting-with-db"]
+	path = data-interacting-with-db
+	url = https://github.com/CassienB/data-interacting-with-db.git
