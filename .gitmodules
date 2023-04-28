@@ -61,3 +61,6 @@
 [submodule "data-opengraph_api"]
 	path = data-opengraph_api
 	url = https://github.com/CassienB/data-opengraph_api.git
+[submodule "data-stock-market-api"]
+	path = data-stock-market-api
+	url = https://github.com/CassienB/data-stock-market-api.git
