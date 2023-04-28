@@ -157,3 +157,6 @@
 [submodule "data-regularization"]
 	path = data-regularization
 	url = https://github.com/CassienB/data-regularization.git
+[submodule "data-svm"]
+	path = data-svm
+	url = https://github.com/CassienB/data-svm.git
