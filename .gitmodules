@@ -52,3 +52,6 @@
 [submodule "data-numpy"]
 	path = data-numpy
 	url = https://github.com/CassienB/data-numpy.git
+[submodule "data-us-oil-and-gas-production"]
+	path = data-us-oil-and-gas-production
+	url = https://github.com/CassienB/data-us-oil-and-gas-production.git
