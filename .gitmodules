@@ -28,3 +28,6 @@
 [submodule "data-table-design"]
 	path = data-table-design
 	url = https://github.com/CassienB/data-table-design.git
+[submodule "data-db-design"]
+	path = data-db-design
+	url = https://github.com/CassienB/data-db-design.git
