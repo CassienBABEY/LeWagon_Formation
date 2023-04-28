@@ -250,3 +250,6 @@
 [submodule "data-train-at-scale"]
 	path = data-train-at-scale
 	url = https://github.com/CassienB/data-train-at-scale.git
+[submodule "data-fast-api"]
+	path = data-fast-api
+	url = https://github.com/CassienB/data-fast-api.git
