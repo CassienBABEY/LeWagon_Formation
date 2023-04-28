@@ -193,3 +193,6 @@
 [submodule "data-your-first-neural-network"]
 	path = data-your-first-neural-network
 	url = https://github.com/CassienB/data-your-first-neural-network.git
+[submodule "data-multiclass-classification"]
+	path = data-multiclass-classification
+	url = https://github.com/CassienB/data-multiclass-classification.git
