@@ -1,3 +1,6 @@
 [submodule "data-setup"]
 	path = data-setup
 	url = https://github.com/CassienB/data-setup.git
+[submodule "dotfiles"]
+	path = dotfiles
+	url = https://github.com/CassienB/dotfiles.git
