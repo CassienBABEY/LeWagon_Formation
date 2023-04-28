@@ -133,3 +133,6 @@
 [submodule "data-car-prices"]
 	path = data-car-prices
 	url = https://github.com/CassienB/data-car-prices.git
+[submodule "data-knn"]
+	path = data-knn
+	url = https://github.com/CassienB/data-knn.git
