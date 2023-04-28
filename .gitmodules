@@ -7,3 +7,6 @@
 [submodule "data-sum-of-three"]
 	path = data-sum-of-three
 	url = https://github.com/CassienB/data-sum-of-three.git
+[submodule "data-string-manipulation"]
+	path = data-string-manipulation
+	url = https://github.com/CassienB/data-string-manipulation.git
