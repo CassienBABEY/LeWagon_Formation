@@ -199,3 +199,6 @@
 [submodule "data-playground-part-ii"]
 	path = data-playground-part-ii
 	url = https://github.com/CassienB/data-playground-part-ii.git
+[submodule "data-how-to-properly-prevent-overfitting"]
+	path = data-how-to-properly-prevent-overfitting
+	url = https://github.com/CassienB/data-how-to-properly-prevent-overfitting.git
