@@ -190,3 +190,6 @@
 [submodule "data-playground"]
 	path = data-playground
 	url = https://github.com/CassienB/data-playground.git
+[submodule "data-your-first-neural-network"]
+	path = data-your-first-neural-network
+	url = https://github.com/CassienB/data-your-first-neural-network.git
