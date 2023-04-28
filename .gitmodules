@@ -175,3 +175,6 @@
 [submodule "data-hand-made-standardizer"]
 	path = data-hand-made-standardizer
 	url = https://github.com/CassienB/data-hand-made-standardizer.git
+[submodule "data-houses-kaggle-competition"]
+	path = data-houses-kaggle-competition
+	url = https://github.com/CassienB/data-houses-kaggle-competition.git
