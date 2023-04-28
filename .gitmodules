@@ -205,3 +205,6 @@
 [submodule "data-finetune-your-neural-network"]
 	path = data-finetune-your-neural-network
 	url = https://github.com/CassienB/data-finetune-your-neural-network.git
+[submodule "data-credit-card-challenge"]
+	path = data-credit-card-challenge
+	url = https://github.com/CassienB/data-credit-card-challenge.git
