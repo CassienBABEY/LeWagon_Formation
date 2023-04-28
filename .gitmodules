@@ -163,3 +163,6 @@
 [submodule "data-preprocessor-tuning"]
 	path = data-preprocessor-tuning
 	url = https://github.com/CassienB/data-preprocessor-tuning.git
+[submodule "data-custom-transformer"]
+	path = data-custom-transformer
+	url = https://github.com/CassienB/data-custom-transformer.git
