@@ -235,3 +235,6 @@
 [submodule "data-your-first-embedding"]
 	path = data-your-first-embedding
 	url = https://github.com/CassienB/data-your-first-embedding.git
+[submodule "data-embeddings-with-word2vec"]
+	path = data-embeddings-with-word2vec
+	url = https://github.com/CassienB/data-embeddings-with-word2vec.git
