@@ -19,3 +19,6 @@
 [submodule "data-system-parameters"]
 	path = data-system-parameters
 	url = https://github.com/CassienB/data-system-parameters.git
+[submodule "data-csv"]
+	path = data-csv
+	url = https://github.com/CassienB/data-csv.git
