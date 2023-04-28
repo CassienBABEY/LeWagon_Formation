@@ -76,3 +76,6 @@
 [submodule "data-join-the-tables"]
 	path = data-join-the-tables
 	url = https://github.com/CassienB/data-join-the-tables.git
+[submodule "data-matplotlib-intro"]
+	path = data-matplotlib-intro
+	url = https://github.com/CassienB/data-matplotlib-intro.git
