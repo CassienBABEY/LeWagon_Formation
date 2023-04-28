@@ -115,3 +115,6 @@
 [submodule "data-logit"]
 	path = data-logit
 	url = https://github.com/CassienB/data-logit.git
+[submodule "data-linear-regression"]
+	path = data-linear-regression
+	url = https://github.com/CassienB/data-linear-regression.git
