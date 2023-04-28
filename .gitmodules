@@ -247,3 +247,6 @@
 [submodule "data-letter-generation"]
 	path = data-letter-generation
 	url = https://github.com/CassienB/data-letter-generation.git
+[submodule "data-train-at-scale"]
+	path = data-train-at-scale
+	url = https://github.com/CassienB/data-train-at-scale.git
