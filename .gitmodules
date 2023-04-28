@@ -220,3 +220,6 @@
 [submodule "data-your-first-rnn"]
 	path = data-your-first-rnn
 	url = https://github.com/CassienB/data-your-first-rnn.git
+[submodule "data-classify-electrocardiograms"]
+	path = data-classify-electrocardiograms
+	url = https://github.com/CassienB/data-classify-electrocardiograms.git
