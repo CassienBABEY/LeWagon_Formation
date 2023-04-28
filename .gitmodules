@@ -196,3 +196,6 @@
 [submodule "data-multiclass-classification"]
 	path = data-multiclass-classification
 	url = https://github.com/CassienB/data-multiclass-classification.git
+[submodule "data-playground-part-ii"]
+	path = data-playground-part-ii
+	url = https://github.com/CassienB/data-playground-part-ii.git
