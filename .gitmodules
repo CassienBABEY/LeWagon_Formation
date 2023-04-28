@@ -91,3 +91,6 @@
 [submodule "data-random-variables"]
 	path = data-random-variables
 	url = https://github.com/CassienB/data-random-variables.git
+[submodule "data-central-limit-theorem"]
+	path = data-central-limit-theorem
+	url = https://github.com/CassienB/data-central-limit-theorem.git
