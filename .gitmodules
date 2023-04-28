@@ -22,3 +22,6 @@
 [submodule "data-csv"]
 	path = data-csv
 	url = https://github.com/CassienB/data-csv.git
+[submodule "data-api"]
+	path = data-api
+	url = https://github.com/CassienB/data-api.git
