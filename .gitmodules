@@ -40,3 +40,6 @@
 [submodule "data-back-to-school"]
 	path = data-back-to-school
 	url = https://github.com/CassienB/data-back_to_school_query.git
+[submodule "data-environment"]
+	path = data-environment
+	url = https://github.com/CassienB/data-environment.git
