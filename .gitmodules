@@ -43,3 +43,6 @@
 [submodule "data-environment"]
 	path = data-environment
 	url = https://github.com/CassienB/data-environment.git
+[submodule "data-sql-queries"]
+	path = data-sql-queries
+	url = https://github.com/CassienB/data-sql-queries.git
