@@ -229,3 +229,6 @@
 [submodule "data-check"]
 	path = data-check
 	url = https://github.com/CassienB/data-check.git
+[submodule "data-git"]
+	path = data-git
+	url = https://github.com/CassienB/data-git.git
