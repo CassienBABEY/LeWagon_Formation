@@ -160,3 +160,6 @@
 [submodule "data-svm"]
 	path = data-svm
 	url = https://github.com/CassienB/data-svm.git
+[submodule "data-preprocessor-tuning"]
+	path = data-preprocessor-tuning
+	url = https://github.com/CassienB/data-preprocessor-tuning.git
