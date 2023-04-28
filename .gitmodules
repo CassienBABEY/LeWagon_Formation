@@ -73,3 +73,6 @@
 [submodule "data-query-the-db"]
 	path = data-query-the-db
 	url = https://github.com/CassienB/data-query-the-db.git
+[submodule "data-join-the-tables"]
+	path = data-join-the-tables
+	url = https://github.com/CassienB/data-join-the-tables.git
