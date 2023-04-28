@@ -130,3 +130,6 @@
 [submodule "data-feature-selection"]
 	path = data-feature-selection
 	url = https://github.com/CassienB/data-feature-selection.git
+[submodule "data-car-prices"]
+	path = data-car-prices
+	url = https://github.com/CassienB/data-car-prices.git
