@@ -16,3 +16,6 @@
 [submodule "data-debugging"]
 	path = data-debugging
 	url = https://github.com/CassienB/data-debugging.git
+[submodule "data-system-parameters"]
+	path = data-system-parameters
+	url = https://github.com/CassienB/data-system-parameters.git
