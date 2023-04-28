@@ -46,3 +46,6 @@
 [submodule "data-sql-queries"]
 	path = data-sql-queries
 	url = https://github.com/CassienB/data-sql-queries.git
+[submodule "data-notebook"]
+	path = data-notebook
+	url = https://github.com/CassienB/data-notebook.git
