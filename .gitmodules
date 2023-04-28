@@ -94,3 +94,6 @@
 [submodule "data-central-limit-theorem"]
 	path = data-central-limit-theorem
 	url = https://github.com/CassienB/data-central-limit-theorem.git
+[submodule "data-data-preparation"]
+	path = data-data-preparation
+	url = https://github.com/CassienB/data-data-preparation.git
