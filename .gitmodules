@@ -187,3 +187,6 @@
 [submodule "data-artificial-time-series"]
 	path = data-artificial-time-series
 	url = https://github.com/CassienB/data-artificial-time-series.git
+[submodule "data-playground"]
+	path = data-playground
+	url = https://github.com/CassienB/data-playground.git
