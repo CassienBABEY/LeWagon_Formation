@@ -1,0 +1,3 @@
+[submodule "data-setup"]
+	path = data-setup
+	url = https://github.com/CassienB/data-setup.git
