@@ -151,3 +151,9 @@
 [submodule "data-batch-gradient-descent"]
 	path = data-batch-gradient-descent
 	url = https://github.com/CassienB/data-batch-gradient-descent.git
+[submodule "data-workflow"]
+	path = data-workflow
+	url = https://github.com/CassienB/data-workflow.git
+[submodule "data-regularization"]
+	path = data-regularization
+	url = https://github.com/CassienB/data-regularization.git
