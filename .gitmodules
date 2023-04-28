@@ -49,3 +49,6 @@
 [submodule "data-notebook"]
 	path = data-notebook
 	url = https://github.com/CassienB/data-notebook.git
+[submodule "data-numpy"]
+	path = data-numpy
+	url = https://github.com/CassienB/data-numpy.git
