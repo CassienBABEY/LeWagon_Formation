@@ -145,3 +145,6 @@
 [submodule "data-loss-functions"]
 	path = data-loss-functions
 	url = https://github.com/CassienB/data-loss-functions.git
+[submodule "data-solvers"]
+	path = data-solvers
+	url = https://github.com/CassienB/data-solvers.git
