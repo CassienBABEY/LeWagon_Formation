@@ -64,3 +64,6 @@
 [submodule "data-stock-market-api"]
 	path = data-stock-market-api
 	url = https://github.com/CassienB/data-stock-market-api.git
+[submodule "data-book_scraping"]
+	path = data-book_scraping
+	url = https://github.com/CassienB/data-book_scraping.git
