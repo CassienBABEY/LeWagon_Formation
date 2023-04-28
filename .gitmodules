@@ -232,3 +232,6 @@
 [submodule "data-git"]
 	path = data-git
 	url = https://github.com/CassienB/data-git.git
+[submodule "data-your-first-embedding"]
+	path = data-your-first-embedding
+	url = https://github.com/CassienB/data-your-first-embedding.git
