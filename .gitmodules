@@ -211,3 +211,6 @@
 [submodule "data-mnist-classification"]
 	path = data-mnist-classification
 	url = https://github.com/CassienB/data-mnist-classification.git
+[submodule "data-intuition-on-convolutions"]
+	path = data-intuition-on-convolutions
+	url = https://github.com/CassienB/data-intuition-on-convolutions.git
