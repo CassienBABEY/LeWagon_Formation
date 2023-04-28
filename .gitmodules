@@ -124,3 +124,6 @@
 [submodule "data-logistic-regression"]
 	path = data-logistic-regression
 	url = https://github.com/CassienB/data-logistic-regression.git
+[submodule "data-preprocessing-workflow"]
+	path = data-preprocessing-workflow
+	url = https://github.com/CassienB/data-preprocessing-workflow.git
