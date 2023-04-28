@@ -166,3 +166,6 @@
 [submodule "data-custom-transformer"]
 	path = data-custom-transformer
 	url = https://github.com/CassienB/data-custom-transformer.git
+[submodule "data-pickle-pipe"]
+	path = data-pickle-pipe
+	url = https://github.com/CassienB/data-pickle-pipe.git
